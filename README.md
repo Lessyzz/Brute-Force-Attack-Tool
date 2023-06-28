@@ -35,4 +35,5 @@ Note: If you want to use this tool with tor proxy, you should start Tor Browser 
 --------
 
 Chromedriver install page: https://chromedriver.chromium.org/downloads
+
 Tor browser install page: https://www.torproject.org/download/
