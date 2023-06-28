@@ -31,3 +31,8 @@ You can use this brute force attacking tool with "Tor Browser". If you edit here
 ![image](https://github.com/Lessyzz/Lessy-Bruteforce/assets/102208615/6a26de29-06d8-4453-83b6-55a0aeb34829)
 
 Note: If you want to use this tool with tor proxy, you should start Tor Browser and connect to Tor Network!
+
+--------
+
+Chromedriver install page: https://chromedriver.chromium.org/downloads
+Tor browser install page: https://www.torproject.org/download/
