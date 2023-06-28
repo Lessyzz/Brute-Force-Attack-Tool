@@ -12,6 +12,8 @@ lessybruteforce.py -u [url] -w [wordlist]
 
 This project for educational not for brute forcing systems!
 
+---
+
 - Replace "line 7" with your own "chromedriver.exe" path.
 
 - Replace "line 53" with website username "<input> name". And replace "admin" with username.
