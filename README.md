@@ -14,6 +14,8 @@ This project for educational not for brute forcing systems!
 
 ---
 
+# Things to do
+
 - Replace "line 7" with your own "chromedriver.exe" path.
 
 - Replace "line 53" with website username "<input> name". And replace "admin" with username.
