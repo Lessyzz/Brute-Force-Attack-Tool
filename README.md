@@ -18,11 +18,11 @@ This project for educational not for brute forcing systems!
 
 - Replace "line 7" with your own "chromedriver.exe" path.
 
-- Replace "line 53" with website username "<input> name". And replace "admin" with username.
+- Replace "line 53" with website username "input name". And replace "admin" with username.
 
-- Replace "line 54" with website password "<input> name".
+- Replace "line 54" with website password "input name".
 
-- Replace "line 55" with website submit button "XPATH" or "<input> name".
+- Replace "line 55" with website submit button "XPATH" or "input name".
 
 You can use this brute force attacking tool with "Tor Browser". If you edit here like that you can brute force on Tor proxy.
 
