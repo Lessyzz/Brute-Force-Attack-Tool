@@ -1,6 +1,6 @@
 # Lessy Brute Force Attack Tool
 
-Brute Force attack for website login pages!
+Brute Force attack tool for website login pages!
 
 --------
 
