@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import argparse, sys, os
 
-class LsySelenium():
+class LessyBruteForceAttackTool():
     def __init__(self):
         self.chrome_driver_path = "C:/chromedriver.exe" # Replace with your own "chromedriver.exe" path.
         
@@ -59,4 +59,4 @@ class LsySelenium():
                 counter += 1
         driver.quit()
 
-run = LsySelenium()
+run = LessyBruteForceAttackTool()
