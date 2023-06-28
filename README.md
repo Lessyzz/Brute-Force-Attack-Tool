@@ -6,7 +6,7 @@ Brute Force attack for website login pages!
 
 # Usage
 
-lessybruteforce.py -u [url] -w [wordlist]"
+lessybruteforce.py -u [url] -w [wordlist]
 
 𝐥𝐞𝐬𝐬𝐲𝐛𝐫𝐮𝐭𝐞𝐟𝐨𝐫𝐜𝐞.𝐩𝐲 -𝐮 𝐰𝐰𝐰.𝐞𝐱𝐚𝐦𝐩𝐥𝐞.𝐜𝐨𝐦/𝐥𝐨𝐠𝐢𝐧 -𝐰 𝐰𝐨𝐫𝐝𝐥𝐢𝐬𝐭.𝐭𝐱𝐭
 
