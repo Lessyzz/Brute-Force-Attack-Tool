@@ -24,7 +24,7 @@ This project for educational not for brute forcing systems!
 
 - Replace "line 50" with website submit button "XPATH" or "input name".
 
-- Finally, you should edit "line 52" with login failed or successfull page.
+- Finally, you should edit "line 52" as the login failed or login successful page.
 
 You can use this brute force attacking tool with "Tor Browser". If you edit here like that you can brute force with Tor proxy.
 
