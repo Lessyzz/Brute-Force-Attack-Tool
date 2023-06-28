@@ -24,6 +24,6 @@ This project for educational not for brute forcing systems!
 
 - Replace "line 55" with website submit button "XPATH" or "input name".
 
-You can use this brute force attacking tool with "Tor Browser". If you edit here like that you can brute force on Tor proxy.
+You can use this brute force attacking tool with "Tor Browser". If you edit here like that you can brute force with Tor proxy.
 
 Note: If you want to use this tool with tor proxy, you should start Tor Browser and connect to Tor Network!
