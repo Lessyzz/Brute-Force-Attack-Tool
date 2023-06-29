@@ -26,7 +26,7 @@ This project for educational not for brute forcing systems!
 
 - Finally, you should edit "line 52" as the login failed or login successful page.
 
-You can use this brute force attacking tool with "Tor Browser". If you edit here like that you can brute force with Tor proxy.
+You can use this brute force attack tool with "Tor Browser". If you edit here like that you can brute force with Tor proxy.
 
 ![image](https://github.com/Lessyzz/Lessy-Bruteforce/assets/102208615/6a26de29-06d8-4453-83b6-55a0aeb34829)
 
