@@ -32,10 +32,10 @@ class LessyBruteForceAttackTool():
 
         # FOR TOR BROWSER PROXY
 
-        #proxy_host = "127.0.0.1"
-        #proxy_port = 9150
+        # tor_proxy = "socks5://localhost:9150"
+        
         chrome_options = webdriver.ChromeOptions()
-        #chrome_options.add_argument("--proxy-server = socks5://{}:{}".format(proxy_host, proxy_port))
+        # chrome_options.add_argument('--proxy-server=%s' % tor_proxy)
         chrome_options.add_argument("--headless")
         driver = webdriver.Chrome(executable_path = self.chrome_driver_path, options = chrome_options)
 
